@@ -16,7 +16,6 @@ This Power BI dashboard provides an in-depth analysis of **Blinkit’s sales per
 
 ## Technology Used
 - **Power BI** - Used for data visualization, report building, and interactive dashboards.  
-- **SQL** - (If applicable) Used for data extraction, transformation, and loading (ETL) processes.  
 - **DAX (Data Analysis Expressions)** - Applied within Power BI to create calculated measures and aggregations.  
 
 ## How to Use
